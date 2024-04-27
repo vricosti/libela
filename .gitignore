@@ -2,6 +2,8 @@ glob:**.o
 glob:**.lo
 glob:**.a
 glob:**.la
+*.o
+*.lo
 .libs
 .deps
 glob:Makefile
